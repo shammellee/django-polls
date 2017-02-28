@@ -1,0 +1,5 @@
+*.sw[op]
+*.bak
+*.pyc
+*.vim
+.DS_Store
